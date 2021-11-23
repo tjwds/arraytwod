@@ -1,0 +1,19 @@
+{
+  "name": "arraytwod",
+  "version": "0.0.1",
+  "description": "A simple module for 2D arrays",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "jest": {
+    "transform": {}
+  },
+  "keywords": [],
+  "author": "Joe Woods <code@joewoods.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
